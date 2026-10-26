@@ -1,0 +1,6 @@
+ollama
+rich
+textual
+psutil
+python-dotenv
+requests
